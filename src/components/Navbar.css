@@ -1,0 +1,28 @@
+.navigations{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; 
+    text-align: center;
+    gap: 5rem; */
+}
+
+.buttons{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    /* gap: 1px; */
+    background-color: #5890e4;
+    /* padding: 10px; */
+}
+.buttons button{
+    /* border-radius: 25px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+}
+
+.buttons button:hover{
+    background-color: rgb(118, 185, 248);
+}
