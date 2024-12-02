@@ -13,7 +13,7 @@ const Cards = () => {
             <div className="card">
                 <img src="../headset.png"></img>
                 <h2>₹ 1599</h2>
-                <h3>Black Smart Watch </h3>
+                <h3>Red Headset </h3>
                 <p>Elevate your daily routine with our state-of-the-art smartwatch. Combining sleek design and cutting-edge technology, </p>
                 <button className='cardButtons'>Buy Now</button>
             </div>
